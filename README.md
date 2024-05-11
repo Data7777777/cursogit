@@ -51,22 +51,5 @@ Primero que nada el **mensaje** para le commit es MUY IMPORTANTE.
 Se entiende al "HEAD", como un "estás aquí".
 El HEAD es un puntero que te indica en dónde te encuentras
 
-# Clase 2
-## Ramas, merge y conflictos
-### ¿Qué es una rama?
-Una rama es una instantánea o un snapshot de la división del estado del código.
 
-Es una bifurcación de la rama principal.
-Es como tener primero una avenida principal, donde las ramas son como otras calles que salen de la avenida principal.
-Es muy necesario realizar el 1er commit, para ver de dónde se realizarán más copias y bifuraciones.
-
-### ¿Para qué sirven las ramas?
-Permiten realizar un desarrollo no lineal y colaborativo.
-
-### Creando la primera rama:
-#### \*Comandos:
-- **git branch:** Lista las ramas existentes.
-- **git branch (nombre de la rama):** Crea una nueva rama con el nombre especificado.
-- **git switch (nombre de la rama a la que se desea cambiar):** Cambia de la rama actual a la que se especificó.
-- **git checkout (nombre de la rama a la que se desea cambiar):** Cambia de la rama actual a la que se especificó.
 
